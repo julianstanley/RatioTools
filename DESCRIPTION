@@ -1,2 +1,8 @@
 Package: RatioTools
 Version: 0.1
+Date: 2018-10-25
+Title: Tools for the Analysis of Ratiometric Data
+Description: A collection of tools build for dual-excitation, single-emission microscopy
+Author: Julian A Stanley <stanley.ju@husky.neu.edu>
+Maintainer: Julian A Stanley <stanley.ju@husky.neu.edu>
+RoxygenNote: 6.1.0
