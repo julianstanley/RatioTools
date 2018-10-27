@@ -4,6 +4,7 @@
 #' @examples
 #' createPos(c(1,2,3), c(1,4,9))
 #' @export
+#' @importFrom stats na.omit 
 
 # Helper to create a 2-column matrix from two vectors
 createPos <- function(X, Y) {

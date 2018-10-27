@@ -3,6 +3,7 @@
 #' @slot ox A 2x2 numeric matrix, representing [x, y] of sensor in oxidized state
 #' @slot red A 2x2 numeric matrix, representing [x, y] of sensor in reduced state
 #' @slot E0 a numeric value for the midpoint potential of the sensor
+#' @importFrom methods new
 setClass("Sensor",
          slots = list(ox = "matrix", red = "matrix", E0 = "numeric"))
 
