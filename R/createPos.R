@@ -3,6 +3,7 @@
 #' @param Y another array of length n
 #' @examples
 #' createPos(c(1,2,3), c(1,4,9))
+#' @return A 2-column numerical matrix
 #' @export
 #' @importFrom stats na.omit 
 

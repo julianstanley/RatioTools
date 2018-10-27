@@ -11,6 +11,9 @@ createPos(X, Y)
 
 \item{Y}{another array of length n}
 }
+\value{
+A 2-column numerical matrix
+}
 \description{
 Create a 2-column matrix from two vectors
 }
