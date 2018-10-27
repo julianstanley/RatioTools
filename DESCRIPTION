@@ -11,6 +11,9 @@ License: MIT + file LICENSE
 Imports:
 	stats,
 	methods
-Suggests: knitr, rmarkdown
+Suggests: 
+    knitr,
+    rmarkdown,
+    testthat
 VignetteBuilder: knitr
 biocViews: CellBiology, SystemsBiology, DataRepresentation
