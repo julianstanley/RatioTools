@@ -9,8 +9,7 @@
 
 # Helper to create a 2-column matrix from two vectors
 createPos <- function(X, Y) {
-  
-  return( 
-    cbind(matrix(na.omit(X)), na.omit(Y))
-  );
+    return( 
+        cbind(matrix(na.omit(X)), na.omit(Y))
+    );
 }

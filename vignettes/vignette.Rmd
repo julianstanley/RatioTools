@@ -2,9 +2,9 @@
 title: "RatioTools Guide"
 output: rmarkdown::html_vignette
 vignette: >
-  %\VignetteIndexEntry{"RatioTools guide"}
-  %\VignetteEngine{knitr::rmarkdown}
-  \usepackage[utf8]{inputenc}
+    %\VignetteIndexEntry{"RatioTools guide"}
+    %\VignetteEngine{knitr::rmarkdown}
+    \usepackage[utf8]{inputenc}
 ---
 
 ```{r setup, include=FALSE}
