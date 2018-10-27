@@ -6,3 +6,5 @@ Description: A collection of tools build for dual-excitation, single-emission mi
 Author: Julian A Stanley <stanley.ju@husky.neu.edu>
 Maintainer: Julian A Stanley <stanley.ju@husky.neu.edu>
 RoxygenNote: 6.1.0
+Encoding: UTF-8
+License: MIT
