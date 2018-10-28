@@ -10,10 +10,10 @@ An S4 class to represent a sensor
 \section{Slots}{
 
 \describe{
-\item{\code{ox}}{A 2x2 numeric matrix, 
+\item{\code{ox}}{A 2xN numeric matrix, 
 representing [x, y] of sensor in oxidized state}
 
-\item{\code{red}}{A 2x2 numeric matrix, 
+\item{\code{red}}{A 2xN numeric matrix, 
 representing [x, y] of sensor in reduced state}
 
 \item{\code{E0}}{a numeric value for the midpoint potential of the sensor}
